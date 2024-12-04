@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Arial, san-serif;
+    font-family: Arial, sans-serif;
     background-color: #ffebbb;
     color: #333;
     display: flex;
@@ -19,13 +19,13 @@ body {
 
 h1 {
     font-size: 2em;
-    margin: 0.5em, 0;
+    margin: 0.5em 0;
     word-wrap: break-word;
 }
 
 p {
     font-size: 1em;
-    margin: 0.5em, 0;
+    margin: 0.5em 0;
 }
 
 #video-container {
@@ -33,7 +33,7 @@ p {
     width: 100%;
     max-width: 800px;
     padding-top: 56.25%;
-    margin: 20px, 0;
+    margin: 20px 0;
 }
 
 #youtube-player {
